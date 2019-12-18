@@ -1,1 +1,1 @@
-macのMusic App再生履歴を集計するやつ
+macのMusicApp再生履歴を集計するやつ
